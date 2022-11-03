@@ -36,4 +36,6 @@ function mergeSort(arr) {
   return merge(leftArr, rigthArr);
 }
 
+// comment added 
+
 console.log(mergeSort([22,51,63,1,12,99, 0]))
